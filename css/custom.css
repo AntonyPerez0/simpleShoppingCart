@@ -1,0 +1,25 @@
+body {
+    background: linear-gradient(to bottom, #4F52FF, #FF7E29);
+    color: white;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+  }
+
+  .row.item {
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+
+  .cart-title {
+    font-weight: bold;
+    color: white;
+  }
+
+  input {
+    color: black;
+  }
+
+  .remove {
+    color: red;
+  }
